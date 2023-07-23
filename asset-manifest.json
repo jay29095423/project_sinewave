@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/project_sinewave/static/css/main.9a3dd6d1.css",
+    "main.js": "/project_sinewave/static/js/main.c59f54df.js",
+    "static/js/787.e3c96ff6.chunk.js": "/project_sinewave/static/js/787.e3c96ff6.chunk.js",
+    "static/media/GS_mini.jpg": "/project_sinewave/static/media/GS_mini.888d2ef070b5220bcd35.jpg",
+    "static/media/monkey.jpg": "/project_sinewave/static/media/monkey.98a9b71544c3c2deb414.jpg",
+    "static/media/headphone5.jpg": "/project_sinewave/static/media/headphone5.162f7fb2f776fbcf4814.jpg",
+    "static/media/cake.jpg": "/project_sinewave/static/media/cake.0abefc0fd468b0c52da3.jpg",
+    "static/media/band.jpg": "/project_sinewave/static/media/band.ffe8d14c8a6ae67b06ff.jpg",
+    "static/media/padels.jpg": "/project_sinewave/static/media/padels.245c886e468b2d771ec4.jpg",
+    "static/media/headphone6.jpg": "/project_sinewave/static/media/headphone6.fd881e43980fa375db89.jpg",
+    "static/media/headphone.jpg": "/project_sinewave/static/media/headphone.90267994e44f1ce35f5f.jpg",
+    "static/media/guitar.jpg": "/project_sinewave/static/media/guitar.57e0fe92fa6f961ae536.jpg",
+    "static/media/speaker.jpg": "/project_sinewave/static/media/speaker.a49099382739becec906.jpg",
+    "static/media/headphone8.jpg": "/project_sinewave/static/media/headphone8.a0393636992831e38418.jpg",
+    "static/media/headphone7.jpg": "/project_sinewave/static/media/headphone7.1afcd4ad2eeb3734f4cf.jpg",
+    "static/media/headphone3.jpg": "/project_sinewave/static/media/headphone3.ddec122fb3fef4edbb97.jpg",
+    "static/media/headphone4.jpg": "/project_sinewave/static/media/headphone4.fac42a51114d626b3e3b.jpg",
+    "static/media/sineWave.png": "/project_sinewave/static/media/sineWave.00b5998b721b75f988fe.png",
+    "static/media/album.jpg": "/project_sinewave/static/media/album.ce9f53240f22ebd847d0.jpg",
+    "static/media/headphone2.jpg": "/project_sinewave/static/media/headphone2.6cf0d1585595c0c223da.jpg",
+    "index.html": "/project_sinewave/index.html",
+    "main.9a3dd6d1.css.map": "/project_sinewave/static/css/main.9a3dd6d1.css.map",
+    "main.c59f54df.js.map": "/project_sinewave/static/js/main.c59f54df.js.map",
+    "787.e3c96ff6.chunk.js.map": "/project_sinewave/static/js/787.e3c96ff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a3dd6d1.css",
+    "static/js/main.c59f54df.js"
+  ]
+}
