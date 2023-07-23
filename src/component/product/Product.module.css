@@ -1,0 +1,29 @@
+.hidden_checkBox {
+  display: none;
+}
+
+.filter {
+  animation: shift_right .2s forwards;
+}
+.filter_backward{
+  animation: shift_left .2s forwards ;
+}
+
+@keyframes shift_right {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(10%);
+  }
+}
+@keyframes shift_left {
+  from {
+    transform: translateX(10%);
+  }
+
+  to {
+    transform: translateX(-110%);
+  }
+}

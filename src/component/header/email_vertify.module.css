@@ -1,0 +1,50 @@
+.custom_style {
+  animation-name: invalid;
+  animation-duration: .3s;
+ 
+}
+
+@keyframes invalid {
+  1% {
+    transform: translateX(-2px);
+  }
+  25% {
+    transform: translateX(2px);
+  }
+  50% {
+    transform: translateX(-2px);
+  }
+  75%{
+     transform: translateX(2px);
+  }
+  100% {
+    transform: translatex(0px);
+  }
+}
+@keyframes example {
+  0% {
+    background-color: red;
+    left: 0px;
+    top: 0px;
+  }
+  25% {
+    background-color: yellow;
+    left: 200px;
+    top: 0px;
+  }
+  50% {
+    background-color: blue;
+    left: 200px;
+    top: 200px;
+  }
+  75% {
+    background-color: green;
+    left: 0px;
+    top: 200px;
+  }
+  100% {
+    background-color: red;
+    left: 0px;
+    top: 0px;
+  }
+}

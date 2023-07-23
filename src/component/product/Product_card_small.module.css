@@ -1,0 +1,12 @@
+.wrap:hover .animated {
+  animation: wordLoop 60s linear infinite;
+}
+
+@keyframes wordLoop {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}

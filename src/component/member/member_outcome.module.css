@@ -1,0 +1,77 @@
+.custom-style {
+  bottom: calc(51.8% - 35.328px);
+  left: calc(38.73% - 16px);
+  font-size: 1.5rem /* 24px */;
+  line-height: 2rem /* 32px */;
+}
+
+@media screen and (max-width: 1653px) {
+  .custom-style {
+    bottom: calc(51.8% - 20px);
+    left: calc(38.73% - 18px);
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+}
+
+@media screen and (max-width: 1510px) {
+  .custom-style {
+    bottom: calc(51.8% - 10px);
+    left: calc(38.73% - 19px);
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .custom-style {
+    bottom: calc(51.8% -5px);
+    left: calc(38.73% - 25px);
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+}
+@media screen and (max-width: 1369px) {
+  .custom-style {
+    bottom: calc(51.8% );
+    left: calc(38.73% - 25px);
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+}
+@media screen and (max-width: 1311px) {
+  .custom-style {
+    bottom: calc(54% );
+    left: calc(38.73% - 25px);
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+}
+
+/* @media screen and (max-width: 1269px) {
+  .custom-style {
+    bottom: calc(57% );
+    left: calc(38.73% - 25px);
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+} */
+@media screen and (max-width: 1276px) {
+  .custom-style {
+    bottom: calc(60% );
+    left: calc(38.73% - 25px);
+    font-size: 12px;
+    line-height: 1rem;
+    
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .custom-style {
+    bottom: calc(62% );
+    left: calc(38.73% - 25px);
+    font-size: 12px;
+    line-height: 1rem;
+    
+  }
+}
